@@ -50,7 +50,9 @@ Hi there! I'm **Pruthviraj Chavan**, a **Data Analyst** passionate about leverag
 ---
 
 ## 📬 **Let’s Connect**
-- **💼 LinkedIn**: [Pruthviraj Chavan](www.linkedin.com/in/pruthviraj-chavan-07934928b)
+- **💼 LinkedIn**: 
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/pruthviraj-chavan-07934928b)
+
 - **🌐 Github**: [Pruthviraj Chavan](https://github.com/Pruthviraj-Chavan-156) 
 
 ---
