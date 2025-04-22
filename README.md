@@ -8,7 +8,7 @@ Hi there! I'm **Pruthviraj Chavan**, a **Data Analyst** passionate about leverag
 - 🛠️ **Skills**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Power BI, Advanced Excel, Statistics.  
 - 🌱 **Currently Learning**: Machine Learning, focusing on supervised and unsupervised models, Web Scraping.  
 - 🚀 **Future Goal**: Build AI-powered solutions that transform raw data into impactful decisions.  
-- ✨ **Hobbies**: Writing about life, creating visually stunning dashboards, and exploring emerging technologies.
+- ✨ **Hobbies**: creating visually stunning dashboards and exploring emerging technologies.
 
 ---
 
